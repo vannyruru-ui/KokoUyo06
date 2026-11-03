@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
 https://dl.dropboxusercontent.com/scl/fi/874de1ocg8ovz16gbx5eb/lv_7441113760426741053_20261005053009.mp4?rlkey=ic5oqhh1vsbizezflg8o8rzw9&st=sebgzec7&dl=1
